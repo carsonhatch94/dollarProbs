@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="mainTest"
+    errors="0" failures="0" hostname="" id="" package="mainTest" skipped="0"
+    tests="2" time="38.10" timestamp="">
+  
+    <testcase name="Login, Add Services, Search Gigs" classname="mainTest" time="21.61" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login, Add Services, Search Services" classname="mainTest" time="16.49" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
